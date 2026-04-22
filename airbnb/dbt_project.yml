@@ -37,4 +37,6 @@ models:
     src:
       +materialized: ephemeral
     # Config indicated by + and applies to all files under models/example/
+data_tests:
+  +store_failures: true
   
