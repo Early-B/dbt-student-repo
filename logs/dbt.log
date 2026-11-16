@@ -125,3 +125,12 @@ Runtime Error
   
 [0m20:37:32.209799 [debug] [MainThread]: Command `dbt snapshot` failed at 20:37:32.209704 after 0.15 seconds
 [0m20:37:32.210048 [debug] [MainThread]: Flushing usage events
+==================== 2026-11-16T21:36:39.176758Z | 01a1e64a-6b07-7cc2-a8f0-dfdc84435a24 ====================
+21:36:39.176872 [info ]: Installing dbt project and profile setup
+21:36:39.203848 [info ]: Info Created .vscode/extensions.json with dbt extension recommendation
+21:36:39.204760 [info ]: Success Project created successfully!
+21:36:39.204911 [info ]: Info Project name: jaffle_shop
+21:36:39.205021 [info ]: Info Project directory: jaffle_shop
+21:36:39.702240 [info ]: 
+==================== Execution Summary =====================
+Finished 'init' successfully [525ms]
